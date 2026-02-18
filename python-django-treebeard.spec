@@ -2,7 +2,7 @@
 %define oname django_treebeard
 
 Name:		python-django-treebeard
-Version:	5.0.2
+Version:	5.0.3
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/d/%{module}/%{oname}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	Efficient tree implementations for Django
