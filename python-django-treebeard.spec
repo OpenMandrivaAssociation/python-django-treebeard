@@ -2,7 +2,7 @@
 %define oname django_treebeard
 
 Name:		python-django-treebeard
-Version:	5.2.0
+Version:	5.2.1
 Release:	1
 Summary:	Efficient tree implementations for Django
 License:	Apache-2.0
